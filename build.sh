@@ -18,4 +18,5 @@ systemctl enable jellyfin
 dnf copr enable -y @caddy/caddy
 dnf install -y caddy
 
-
+# nextcloud
+# https://rhea.dev/nextcloud/
