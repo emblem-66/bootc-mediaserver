@@ -20,3 +20,5 @@ dnf install -y caddy
 
 # nextcloud
 # https://rhea.dev/nextcloud/
+# https://fedoraproject.org/wiki/Nextcloud
+dnf install -y nextcloud
