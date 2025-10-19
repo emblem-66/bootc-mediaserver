@@ -12,6 +12,6 @@ dnf install -y --allowerasing ffmpeg
 # jellyfin/kodi
 dnf install -y jellyfin
 
-
+systemctl enable jellyfin
 
 
