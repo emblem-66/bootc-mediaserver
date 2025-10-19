@@ -14,4 +14,8 @@ dnf install -y jellyfin
 
 systemctl enable jellyfin
 
+# caddy
+dnf copr enable -y @caddy/caddy
+dnf install -y caddy
+
 
